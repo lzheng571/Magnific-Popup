@@ -1,0 +1,2 @@
+# Magnific-Popup
+Magnific-Popup
